@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.FlickrBrowser2.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+<!--        below one is to change the background color of card view-->
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:colorBackgroundFloating">@android:color/transparent</item>
+    </style>
+</resources>
